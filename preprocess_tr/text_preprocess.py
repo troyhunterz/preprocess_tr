@@ -1,5 +1,3 @@
-# all preprocessing codes``
-
 from google_trans_new import google_translator
 from textblob.sentiments import NaiveBayesAnalyzer
 from collections import Counter
