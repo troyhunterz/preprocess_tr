@@ -1,8 +1,6 @@
 from .text_preprocess import *
 
 # General Feature Extraction
-
-
 def extract_features(element):
     return {
         'word_count': word_count(element),
@@ -17,8 +15,6 @@ def extract_features(element):
 
 
 # Cleaning Text
-
-
 def clean_text(element):
     element = to_lower_case(element)
     element = contraction_to_expansion(element)
