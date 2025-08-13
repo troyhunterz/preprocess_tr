@@ -1,5 +1,5 @@
 # Text Preprocessing Python Package
-This python package is created by [anonfolder](testfolder.com). It provides various text preprcoessing utilities for natural language processing (NLP) tasks 
+This python package is created by [anonfolder](testfolder.com). It provides various text preprcoessing utilities for natural language processing (NLP) tasks
 
 ## Installation
 ### Installation from Pypi
